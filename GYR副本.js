@@ -1,3 +1,7 @@
 function(){
-	alert()
+	alert(1)
+}
+
+function(){
+	
 }
